@@ -64,15 +64,16 @@ This project is licensed under the MIT License.
 
 Nikhil Kumar
 
-
 ---
 
-These are the screenshot for the webpages- 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2db711e8-1e6c-4a94-b752-bdc859882bab" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ba057c5d-ba0d-44cd-a22e-abef0601aabd" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3e587d87-2469-4e38-8ed5-d79b8c63bb0a" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d30c5908-e958-451f-81fa-cc5155311666" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/71ac52d1-c835-47e3-8f59-47b8bb04db8a" />
+## 📸 Screenshots
+
+![Screenshot 1](https://github.com/user-attachments/assets/2db711e8-1e6c-4a94-b752-bdc859882bab)
+![Screenshot 2](https://github.com/user-attachments/assets/ba057c5d-ba0d-44cd-a22e-abef0601aabd)
+![Screenshot 3](https://github.com/user-attachments/assets/3e587d87-2469-4e38-8ed5-d79b8c63bb0a)
+![Screenshot 4](https://github.com/user-attachments/assets/d30c5908-e958-451f-81fa-cc5155311666)
+![Screenshot 5](https://github.com/user-attachments/assets/71ac52d1-c835-47e3-8f59-47b8bb04db8a)
+
 
 
 
